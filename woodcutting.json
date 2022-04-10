@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Normal tree",
+        "level": 1,
+        "itemId": 1511
+    },
+    {
+        "name": "Achey tree",
+        "level": 1,
+        "itemId": 2862
+    },
+    {
+        "name": "Dead tree",
+        "level": 5,
+        "itemId": 8173
+    },
+    {
+        "name": "Divine tree",
+        "level": 7,
+        "itemId": 29304
+    },
+    {
+        "name": "Seeping elm tree",
+        "level": 10,
+        "itemId": 17684
+    },
+    {
+        "name": "Nice tree",
+        "level": 10,
+        "itemId": 8174
+    },
+    {
+        "name": "Chop evil oak tree",
+        "level": 15,
+        "itemId": 14667
+    },
+    {
+        "name": "Oak tree",
+        "level": 15,
+        "itemId": 8175
+    },
+    {
+        "name": "Burn evil oak tree",
+        "level": 15,
+        "itemId": 14667
+    },
+    {
+        "name": "Oak tree",
+        "level": 15,
+        "itemId": 1521
+    },
+    {
+        "name": "Oak tree",
+        "level": 15,
+        "itemId": 1521
+    },
+    {
+        "name": "Blood spindle tree",
+        "level": 20,
+        "itemId": 17686
+    },
+    {
+        "name": "Divine oak tree",
+        "level": 21,
+        "itemId": 29305
+    },
+    {
+        "name": "Apple tree",
+        "level": 27,
+        "itemId": 1955
+    },
+    {
+        "name": "Chop evil willow tree",
+        "level": 30,
+        "itemId": 14667
+    },
+    {
+        "name": "Utuku tree",
+        "level": 30,
+        "itemId": 17688
+    },
+    {
+        "name": "Willow tree",
+        "level": 30,
+        "itemId": 8176
+    },
+    {
+        "name": "Burn evil willow tree",
+        "level": 30,
+        "itemId": 14667
+    },
+    {
+        "name": "Willow tree",
+        "level": 30,
+        "itemId": 1519
+    },
+    {
+        "name": "Willow tree",
+        "level": 30,
+        "itemId": 1519
+    },
+    {
+        "name": "Divine willow tree",
+        "level": 31,
+        "itemId": 29306
+    },
+    {
+        "name": "Banana tree",
+        "level": 33,
+        "itemId": 1963
+    },
+    {
+        "name": "Teak tree",
+        "level": 35,
+        "itemId": 6333
+    },
+    {
+        "name": "Orange tree",
+        "level": 39,
+        "itemId": 2108
+    },
+    {
+        "name": "Spinebeam tree",
+        "level": 40,
+        "itemId": 17690
+    },
+    {
+        "name": "Curry tree",
+        "level": 42,
+        "itemId": 5970
+    },
+    {
+        "name": "Divine maple tree",
+        "level": 44,
+        "itemId": 29307
+    },
+    {
+        "name": "Chop evil maple tree",
+        "level": 45,
+        "itemId": 14667
+    },
+    {
+        "name": "Maple tree",
+        "level": 45,
+        "itemId": 8177
+    },
+    {
+        "name": "Burn evil maple tree",
+        "level": 45,
+        "itemId": 14667
+    },
+    {
+        "name": "Maple tree",
+        "level": 45,
+        "itemId": 1517
+    },
+    {
+        "name": "Maple tree",
+        "level": 45,
+        "itemId": 1517
+    },
+    {
+        "name": "Hollow tree",
+        "level": 45,
+        "itemId": 3239
+    },
+    {
+        "name": "Acadia tree",
+        "level": 47,
+        "itemId": 40285
+    },
+    {
+        "name": "Bovistrangler tree",
+        "level": 50,
+        "itemId": 17692
+    },
+    {
+        "name": "Mahogany tree",
+        "level": 50,
+        "itemId": 6332
+    },
+    {
+        "name": "Papaya tree",
+        "level": 57,
+        "itemId": 5972
+    },
+    {
+        "name": "Eucalyptus tree",
+        "level": 58,
+        "itemId": 12581
+    },
+    {
+        "name": "Chop evil yew tree",
+        "level": 60,
+        "itemId": 14667
+    },
+    {
+        "name": "Thigat tree",
+        "level": 60,
+        "itemId": 17694
+    },
+    {
+        "name": "Yew tree",
+        "level": 60,
+        "itemId": 8178
+    },
+    {
+        "name": "Burn evil yew tree",
+        "level": 60,
+        "itemId": 14667
+    },
+    {
+        "name": "Yew tree",
+        "level": 60,
+        "itemId": 1515
+    },
+    {
+        "name": "Yew tree",
+        "level": 60,
+        "itemId": 1515
+    },
+    {
+        "name": "Divine yew tree",
+        "level": 62,
+        "itemId": 29308
+    },
+    {
+        "name": "Palm tree",
+        "level": 68,
+        "itemId": 5974
+    },
+    {
+        "name": "Corpsethorn tree",
+        "level": 70,
+        "itemId": 17696
+    },
+    {
+        "name": "Calquat tree",
+        "level": 72,
+        "itemId": 5980
+    },
+    {
+        "name": "Chop evil magic tree",
+        "level": 75,
+        "itemId": 14667
+    },
+    {
+        "name": "Magic tree",
+        "level": 75,
+        "itemId": 8179
+    },
+    {
+        "name": "Burn evil magic tree",
+        "level": 75,
+        "itemId": 14667
+    },
+    {
+        "name": "Magic tree",
+        "level": 75,
+        "itemId": 1513
+    },
+    {
+        "name": "Magic tree",
+        "level": 75,
+        "itemId": 1513
+    },
+    {
+        "name": "Entgallow tree",
+        "level": 80,
+        "itemId": 17698
+    },
+    {
+        "name": "Divine magic tree",
+        "level": 83,
+        "itemId": 29309
+    },
+    {
+        "name": "Spirit tree",
+        "level": 83,
+        "itemId": 6063
+    },
+    {
+        "name": "Bloodwood tree",
+        "level": 85,
+        "itemId": 24121
+    },
+    {
+        "name": "Chop evil elder tree",
+        "level": 90,
+        "itemId": 14667
+    },
+    {
+        "name": "Grave creeper tree",
+        "level": 90,
+        "itemId": 17700
+    },
+    {
+        "name": "Burn elder evil tree",
+        "level": 90,
+        "itemId": 14667
+    },
+    {
+        "name": "Elder tree",
+        "level": 90,
+        "itemId": 32294
+    },
+    {
+        "name": "Elder tree",
+        "level": 90,
+        "itemId": 29556
+    },
+    {
+        "name": "Crystal tree",
+        "level": 94,
+        "itemId": 32270
+    },
+    {
+        "name": "Crystal tree",
+        "level": 94,
+        "itemId": 29555
+    }
+]
