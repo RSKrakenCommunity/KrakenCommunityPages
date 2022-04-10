@@ -1269,6 +1269,25 @@
         {
             "from": {
                 "tile": {
+                    "x": 2967,
+                    "y": 3403,
+                    "z": 0
+                }
+            },
+            "to": {
+                "tile": {
+                    "x": 2988,
+                    "y": 3422,
+                    "z": 0
+                }
+            },
+            "strategy": {
+                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
+            }
+        },
+        {
+            "from": {
+                "tile": {
                     "x": 2964,
                     "y": 3380,
                     "z": 0
@@ -7616,6 +7635,25 @@
                 "tile": {
                     "x": 3034,
                     "y": 3429,
+                    "z": 0
+                }
+            },
+            "strategy": {
+                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
+            }
+        },
+        {
+            "from": {
+                "tile": {
+                    "x": 3014,
+                    "y": 3431,
+                    "z": 0
+                }
+            },
+            "to": {
+                "tile": {
+                    "x": 2988,
+                    "y": 3422,
                     "z": 0
                 }
             },
@@ -15975,6 +16013,44 @@
             "strategy": {
                 "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
             }
+        },
+        {
+            "from": {
+                "tile": {
+                    "x": 2988,
+                    "y": 3422,
+                    "z": 0
+                }
+            },
+            "to": {
+                "tile": {
+                    "x": 2967,
+                    "y": 3403,
+                    "z": 0
+                }
+            },
+            "strategy": {
+                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
+            }
+        },
+        {
+            "from": {
+                "tile": {
+                    "x": 2988,
+                    "y": 3422,
+                    "z": 0
+                }
+            },
+            "to": {
+                "tile": {
+                    "x": 3014,
+                    "y": 3431,
+                    "z": 0
+                }
+            },
+            "strategy": {
+                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
+            }
         }
     ],
     "vertices": [
@@ -18145,6 +18221,13 @@
             "tile": {
                 "x": 3407,
                 "y": 3470,
+                "z": 0
+            }
+        },
+        {
+            "tile": {
+                "x": 2988,
+                "y": 3422,
                 "z": 0
             }
         }
