@@ -160,5 +160,41 @@
             "z": 0
         },
         "isBank": true
+    },
+    {
+        "name": "Yanille Bank",
+        "tile": {
+            "x": 2611,
+            "y": 3092,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Castle Wars Bank Chest",
+        "tile": {
+            "x": 2444,
+            "y": 3086,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Oo'glog Bank",
+        "tile": {
+            "x": 2557,
+            "y": 2839,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Varrock North Bank",
+        "tile": {
+            "x": 3257,
+            "y": 3503,
+            "z": 0
+        },
+        "isBank": true
     }
 ]
