@@ -1,1 +1,164 @@
-[{"name":"Edge Bank","tile":{"x":3093,"y":3494,"z":0},"isBank":true},{"name":"Clan Bank","tile":{"x":2957,"y":3296,"z":0},"isBank":true},{"name":"Taverly Bank","tile":{"x":2877,"y":3417,"z":0},"isBank":true},{"name":"Lumbridge Bank","tile":{"x":3212,"y":3257,"z":0},"isBank":true},{"name":"Chaos Alter (Wildy)","tile":{"x":3236,"y":3602,"z":0},"isBank":true}]
+[
+    {
+        "name": "Edge Bank",
+        "tile": {
+            "x": 3093,
+            "y": 3494,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Clan Bank",
+        "tile": {
+            "x": 2957,
+            "y": 3296,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Taverly Bank",
+        "tile": {
+            "x": 2877,
+            "y": 3417,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Lumbridge Bank",
+        "tile": {
+            "x": 3212,
+            "y": 3257,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Dung",
+        "tile": {
+            "x": 3450,
+            "y": 3730,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Chaos Alter (Wildy)",
+        "tile": {
+            "x": 3236,
+            "y": 3602,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Kharid West Bank",
+        "tile": {
+            "x": 3271,
+            "y": 3166,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Dual Area Bank",
+        "tile": {
+            "x": 3381,
+            "y": 3270,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Draynor Village Bank",
+        "tile": {
+            "x": 3094,
+            "y": 3243,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Falador West Bank",
+        "tile": {
+            "x": 2946,
+            "y": 3370,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Falador East Bank",
+        "tile": {
+            "x": 3013,
+            "y": 3356,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Falador Workshop Bank",
+        "tile": {
+            "x": 3059,
+            "y": 3339,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Burthorpe Bank",
+        "tile": {
+            "x": 2891,
+            "y": 3538,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Catherby Bank",
+        "tile": {
+            "x": 2796,
+            "y": 3439,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Seers Bank",
+        "tile": {
+            "x": 2725,
+            "y": 3491,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "POF Bank Chest",
+        "tile": {
+            "x": 2651,
+            "y": 3348,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Ardougne North Bank",
+        "tile": {
+            "x": 2617,
+            "y": 3333,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Ardougne South Bank",
+        "tile": {
+            "x": 2652,
+            "y": 3284,
+            "z": 0
+        },
+        "isBank": true
+    }
+]
