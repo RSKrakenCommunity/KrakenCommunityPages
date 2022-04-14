@@ -196,5 +196,257 @@
             "z": 0
         },
         "isBank": true
+    },
+    {
+        "name": "Varrock East Bank",
+        "tile": {
+            "x": 3254,
+            "y": 3422,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Varrock West Bank",
+        "tile": {
+            "x": 3186,
+            "y": 3437,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Lumbridge Casle Bank",
+        "tile": {
+            "x": 3209,
+            "y": 3220,
+            "z": 2
+        },
+        "isBank": true
+    },
+    {
+        "name": "Behind Lumbridge Bank",
+        "tile": {
+            "x": 3185,
+            "y": 3226,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Invention Guild",
+        "tile": {
+            "x": 6169,
+            "y": 1051,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Warriors' Guild Bank",
+        "tile": {
+            "x": 2846,
+            "y": 3537,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "StormGuard Bank",
+        "tile": {
+            "x": 2675,
+            "y": 3404,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Fishing Guild Bank",
+        "tile": {
+            "x": 2586,
+            "y": 3422,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Hall of Memories",
+        "tile": {
+            "x": 2280,
+            "y": 3558,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Fishing Colony",
+        "tile": {
+            "x": 2330,
+            "y": 3688,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Kharid-et Bank",
+        "tile": {
+            "x": 3355,
+            "y": 3197,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "EverLight",
+        "tile": {
+            "x": 3700,
+            "y": 3214,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Senntisten Bank",
+        "tile": {
+            "x": 1786,
+            "y": 1299,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Warforge Bank",
+        "tile": {
+            "x": 2412,
+            "y": 2828,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Orthen Bank",
+        "tile": {
+            "x": 5465,
+            "y": 2342,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Prifddinas Bank",
+        "tile": {
+            "x": 2208,
+            "y": 3360,
+            "z": 1
+        },
+        "isBank": true
+    },
+    {
+        "name": "Prifddinas Crwys Bank",
+        "tile": {
+            "x": 2238,
+            "y": 3385,
+            "z": 1
+        },
+        "isBank": true
+    },
+    {
+        "name": "Prifddinas Meilyr Bank",
+        "tile": {
+            "x": 2237,
+            "y": 3400,
+            "z": 1
+        },
+        "isBank": true
+    },
+    {
+        "name": "Prifddinas Hefin Bank",
+        "tile": {
+            "x": 2180,
+            "y": 3400,
+            "z": 1
+        },
+        "isBank": true
+    },
+    {
+        "name": "Prifddinas Ithell Bank",
+        "tile": {
+            "x": 2154,
+            "y": 3340,
+            "z": 1
+        },
+        "isBank": true
+    },
+    {
+        "name": "Prifddinas Trahaearn Bank",
+        "tile": {
+            "x": 2232,
+            "y": 3310,
+            "z": 1
+        },
+        "isBank": true
+    },
+    {
+        "name": "Max Guild Bank",
+        "tile": {
+            "x": 2276,
+            "y": 3312,
+            "z": 1
+        },
+        "isBank": true
+    },
+    {
+        "name": "Lunar Bank",
+        "tile": {
+            "x": 2099,
+            "y": 3918,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Canifis Bank",
+        "tile": {
+            "x": 3511,
+            "y": 3479,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Sam NPC Bank Wild",
+        "tile": {
+            "x": 3047,
+            "y": 3628,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Neil NPC Bank Wild",
+        "tile": {
+            "x": 3017,
+            "y": 3702,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Edmound NPC Bank Wild",
+        "tile": {
+            "x": 3089,
+            "y": 3820,
+            "z": 0
+        },
+        "isBank": true
+    },
+    {
+        "name": "Darren NPC Bank Wild",
+        "tile": {
+            "x": 3004,
+            "y": 3862,
+            "z": 0
+        },
+        "isBank": true
     }
 ]
