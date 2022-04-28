@@ -31209,8 +31209,8 @@
             },
             "to": {
                 "tile": {
-                    "x": 3030,
-                    "y": 3828,
+                    "x": 3043,
+                    "y": 3837,
                     "z": 0
                 }
             },
@@ -31228,8 +31228,8 @@
             },
             "to": {
                 "tile": {
-                    "x": 2997,
-                    "y": 3826,
+                    "x": 3006,
+                    "y": 3814,
                     "z": 0
                 }
             },
@@ -31325,25 +31325,6 @@
                 "tile": {
                     "x": 2993,
                     "y": 3796,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 2963,
-                    "y": 3822,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 2997,
-                    "y": 3826,
                     "z": 0
                 }
             },
@@ -32418,44 +32399,6 @@
         {
             "from": {
                 "tile": {
-                    "x": 3111,
-                    "y": 3786,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3111,
-                    "y": 3786,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
                     "x": 3136,
                     "y": 3822,
                     "z": 0
@@ -32503,25 +32446,6 @@
                 "tile": {
                     "x": 3175,
                     "y": 3781,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3136,
-                    "y": 3822,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
                     "z": 0
                 }
             },
@@ -33368,63 +33292,6 @@
         {
             "from": {
                 "tile": {
-                    "x": 3078,
-                    "y": 3782,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3078,
-                    "y": 3782,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3078,
-                    "y": 3782,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
                     "x": 3033,
                     "y": 3781,
                     "z": 0
@@ -33508,8 +33375,8 @@
             },
             "to": {
                 "tile": {
-                    "x": 3030,
-                    "y": 3828,
+                    "x": 3043,
+                    "y": 3837,
                     "z": 0
                 }
             },
@@ -33527,27 +33394,8 @@
             },
             "to": {
                 "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3033,
-                    "y": 3781,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
+                    "x": 3006,
+                    "y": 3814,
                     "z": 0
                 }
             },
@@ -33624,44 +33472,6 @@
                 "tile": {
                     "x": 3013,
                     "y": 3754,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 2993,
-                    "y": 3796,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3030,
-                    "y": 3828,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 2993,
-                    "y": 3796,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 2997,
-                    "y": 3826,
                     "z": 0
                 }
             },
@@ -33776,25 +33586,6 @@
                 "tile": {
                     "x": 3039,
                     "y": 3723,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3013,
-                    "y": 3754,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
                     "z": 0
                 }
             },
@@ -33947,25 +33738,6 @@
                 "tile": {
                     "x": 3066,
                     "y": 3689,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3068,
-                    "y": 3743,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
                     "z": 0
                 }
             },
@@ -34185,46 +33957,8 @@
         {
             "from": {
                 "tile": {
-                    "x": 3030,
-                    "y": 3828,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3033,
-                    "y": 3781,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3030,
-                    "y": 3828,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 2993,
-                    "y": 3796,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3030,
-                    "y": 3828,
+                    "x": 3043,
+                    "y": 3837,
                     "z": 0
                 }
             },
@@ -34242,15 +33976,15 @@
         {
             "from": {
                 "tile": {
-                    "x": 3030,
-                    "y": 3828,
+                    "x": 3043,
+                    "y": 3837,
                     "z": 0
                 }
             },
             "to": {
                 "tile": {
-                    "x": 2997,
-                    "y": 3826,
+                    "x": 3033,
+                    "y": 3781,
                     "z": 0
                 }
             },
@@ -34261,15 +33995,15 @@
         {
             "from": {
                 "tile": {
-                    "x": 3030,
-                    "y": 3828,
+                    "x": 3006,
+                    "y": 3814,
                     "z": 0
                 }
             },
             "to": {
                 "tile": {
-                    "x": 3060,
-                    "y": 3811,
+                    "x": 3033,
+                    "y": 3781,
                     "z": 0
                 }
             },
@@ -34280,46 +34014,8 @@
         {
             "from": {
                 "tile": {
-                    "x": 2997,
-                    "y": 3826,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 2963,
-                    "y": 3822,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 2997,
-                    "y": 3826,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3030,
-                    "y": 3828,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 2997,
-                    "y": 3826,
+                    "x": 3006,
+                    "y": 3814,
                     "z": 0
                 }
             },
@@ -34327,310 +34023,6 @@
                 "tile": {
                     "x": 3005,
                     "y": 3857,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 2997,
-                    "y": 3826,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 2993,
-                    "y": 3796,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3030,
-                    "y": 3828,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3078,
-                    "y": 3782,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3111,
-                    "y": 3786,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3033,
-                    "y": 3781,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3136,
-                    "y": 3822,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3111,
-                    "y": 3786,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3100,
-                    "y": 3817,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3078,
-                    "y": 3782,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3033,
-                    "y": 3781,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3013,
-                    "y": 3754,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3068,
-                    "y": 3743,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3078,
-                    "y": 3782,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3039,
-                    "y": 3765,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3060,
-                    "y": 3811,
                     "z": 0
                 }
             },
@@ -38674,36 +38066,15 @@
         },
         {
             "tile": {
-                "x": 3030,
-                "y": 3828,
+                "x": 3043,
+                "y": 3837,
                 "z": 0
             }
         },
         {
             "tile": {
-                "x": 2997,
-                "y": 3826,
-                "z": 0
-            }
-        },
-        {
-            "tile": {
-                "x": 3060,
-                "y": 3811,
-                "z": 0
-            }
-        },
-        {
-            "tile": {
-                "x": 3100,
-                "y": 3817,
-                "z": 0
-            }
-        },
-        {
-            "tile": {
-                "x": 3039,
-                "y": 3765,
+                "x": 3006,
+                "y": 3814,
                 "z": 0
             }
         }
