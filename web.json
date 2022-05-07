@@ -31209,27 +31209,8 @@
             },
             "to": {
                 "tile": {
-                    "x": 3043,
-                    "y": 3837,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
                     "x": 3005,
-                    "y": 3857,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3006,
-                    "y": 3814,
+                    "y": 3836,
                     "z": 0
                 }
             },
@@ -33375,27 +33356,8 @@
             },
             "to": {
                 "tile": {
-                    "x": 3043,
-                    "y": 3837,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3033,
-                    "y": 3781,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3006,
-                    "y": 3814,
+                    "x": 3013,
+                    "y": 3815,
                     "z": 0
                 }
             },
@@ -33957,8 +33919,27 @@
         {
             "from": {
                 "tile": {
-                    "x": 3043,
-                    "y": 3837,
+                    "x": 3005,
+                    "y": 3836,
+                    "z": 0
+                }
+            },
+            "to": {
+                "tile": {
+                    "x": 3013,
+                    "y": 3815,
+                    "z": 0
+                }
+            },
+            "strategy": {
+                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
+            }
+        },
+        {
+            "from": {
+                "tile": {
+                    "x": 3005,
+                    "y": 3836,
                     "z": 0
                 }
             },
@@ -33976,53 +33957,34 @@
         {
             "from": {
                 "tile": {
-                    "x": 3043,
-                    "y": 3837,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3033,
-                    "y": 3781,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3006,
-                    "y": 3814,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3033,
-                    "y": 3781,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3006,
-                    "y": 3814,
+                    "x": 3013,
+                    "y": 3815,
                     "z": 0
                 }
             },
             "to": {
                 "tile": {
                     "x": 3005,
-                    "y": 3857,
+                    "y": 3836,
+                    "z": 0
+                }
+            },
+            "strategy": {
+                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
+            }
+        },
+        {
+            "from": {
+                "tile": {
+                    "x": 3013,
+                    "y": 3815,
+                    "z": 0
+                }
+            },
+            "to": {
+                "tile": {
+                    "x": 3033,
+                    "y": 3781,
                     "z": 0
                 }
             },
@@ -38066,15 +38028,15 @@
         },
         {
             "tile": {
-                "x": 3043,
-                "y": 3837,
+                "x": 3005,
+                "y": 3836,
                 "z": 0
             }
         },
         {
             "tile": {
-                "x": 3006,
-                "y": 3814,
+                "x": 3013,
+                "y": 3815,
                 "z": 0
             }
         }
