@@ -7785,25 +7785,6 @@
             },
             "to": {
                 "tile": {
-                    "x": 3094,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3113,
-                    "y": 3507,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
                     "x": 3093,
                     "y": 3520,
                     "z": 0
@@ -7825,101 +7806,6 @@
                 "tile": {
                     "x": 3134,
                     "y": 3481,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3094,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3113,
-                    "y": 3507,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3094,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3088,
-                    "y": 3493,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3094,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3070,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3094,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3093,
-                    "y": 3520,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3088,
-                    "y": 3493,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3094,
-                    "y": 3503,
                     "z": 0
                 }
             },
@@ -7977,25 +7863,6 @@
                 "tile": {
                     "x": 3088,
                     "y": 3493,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3070,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3094,
-                    "y": 3503,
                     "z": 0
                 }
             },
@@ -14538,25 +14405,6 @@
             "to": {
                 "tile": {
                     "x": 3070,
-                    "y": 3503,
-                    "z": 0
-                }
-            },
-            "strategy": {
-                "type": "com.rshub.api.pathing.web.edges.strategies.EdgeTileStrategy"
-            }
-        },
-        {
-            "from": {
-                "tile": {
-                    "x": 3093,
-                    "y": 3520,
-                    "z": 0
-                }
-            },
-            "to": {
-                "tile": {
-                    "x": 3094,
                     "y": 3503,
                     "z": 0
                 }
@@ -34894,13 +34742,6 @@
             "tile": {
                 "x": 3113,
                 "y": 3507,
-                "z": 0
-            }
-        },
-        {
-            "tile": {
-                "x": 3094,
-                "y": 3503,
                 "z": 0
             }
         },
